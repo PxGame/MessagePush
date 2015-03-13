@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MsgServer", "MsgServer\MsgServer.vcxproj", "{018994A4-F6D6-4D6D-91E7-1AC6DF5C98E2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MsgClient", "MsgClient\MsgClient.vcxproj", "{9F4F7F27-77C1-425E-B1AB-04F41E6C879B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UdpMsgServer", "UdpMsgServer\UdpMsgServer.vcxproj", "{EA50DFBB-234F-4A9A-A5AD-F4136EF9AC6A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UdpMsgClient", "UdpMsgClient\UdpMsgClient.vcxproj", "{8A69C434-0423-4542-9523-66EE270BD2EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{018994A4-F6D6-4D6D-91E7-1AC6DF5C98E2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{018994A4-F6D6-4D6D-91E7-1AC6DF5C98E2}.Debug|Win32.Build.0 = Debug|Win32
+		{018994A4-F6D6-4D6D-91E7-1AC6DF5C98E2}.Release|Win32.ActiveCfg = Release|Win32
+		{018994A4-F6D6-4D6D-91E7-1AC6DF5C98E2}.Release|Win32.Build.0 = Release|Win32
+		{9F4F7F27-77C1-425E-B1AB-04F41E6C879B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F4F7F27-77C1-425E-B1AB-04F41E6C879B}.Debug|Win32.Build.0 = Debug|Win32
+		{9F4F7F27-77C1-425E-B1AB-04F41E6C879B}.Release|Win32.ActiveCfg = Release|Win32
+		{9F4F7F27-77C1-425E-B1AB-04F41E6C879B}.Release|Win32.Build.0 = Release|Win32
+		{EA50DFBB-234F-4A9A-A5AD-F4136EF9AC6A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA50DFBB-234F-4A9A-A5AD-F4136EF9AC6A}.Debug|Win32.Build.0 = Debug|Win32
+		{EA50DFBB-234F-4A9A-A5AD-F4136EF9AC6A}.Release|Win32.ActiveCfg = Release|Win32
+		{EA50DFBB-234F-4A9A-A5AD-F4136EF9AC6A}.Release|Win32.Build.0 = Release|Win32
+		{8A69C434-0423-4542-9523-66EE270BD2EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8A69C434-0423-4542-9523-66EE270BD2EB}.Debug|Win32.Build.0 = Debug|Win32
+		{8A69C434-0423-4542-9523-66EE270BD2EB}.Release|Win32.ActiveCfg = Release|Win32
+		{8A69C434-0423-4542-9523-66EE270BD2EB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
